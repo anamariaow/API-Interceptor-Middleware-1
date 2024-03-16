@@ -14,4 +14,5 @@ public class BasicController {
     public String getCurrentDateTime() {
         return  "Current date and time: " + LocalDateTime.now();
     }
+    //http://localhost:8080/time
 }
