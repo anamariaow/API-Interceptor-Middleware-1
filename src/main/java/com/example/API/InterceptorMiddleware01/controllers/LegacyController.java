@@ -12,4 +12,5 @@ public class LegacyController {
     public String getLegacyMessage() {
         return "This is just old code";
     }
+    //localhost:8080/legacy
 }
